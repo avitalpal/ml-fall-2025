@@ -1,2 +1,2 @@
-# ml-fall-2025
-Jupyter notebooks containing assignments completed at UC3M in Madrid, Spain during my Fall 2025 study abroad semester
+# Fall 2025 Study Abroad Machine Learning Course
+This repository contains `.ipynb` files with ML assignments I completed during my time at school for the semester. It is intended to showcase skills that I have learned, rather than to be used for future projects or other softwares. The content is specific to a dataset no longer available to me. Regardless, the structure and reasoning may be understood *without* access to this data as it goes hand-in-hand with inline report remarks. Feel free to check things out :)
